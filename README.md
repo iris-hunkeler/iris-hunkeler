@@ -6,4 +6,4 @@ I love working on...
 * ♾ DevOps
 * 🔗 Agile development
 
- You can find more from me on  [![<LinkTree>](https://img.shields.io/badge/LinkTree-005582)](https://linktr.ee/iris.hunkeler)
+You can find more from me on [LinkTree](https://linktr.ee/iris.hunkeler).
